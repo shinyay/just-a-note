@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Just a Note</title>
-    <link>http://shinyay.bitbucket.org/about/</link>
+    <link>http://shinyay.github.io/about/</link>
     <description>Recent content in Abouts on Just a Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Tue, 31 May 2016 10:34:54 +0000</lastBuildDate>
-    <atom:link href="http://shinyay.bitbucket.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://shinyay.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://shinyay.bitbucket.org/about/about/</link>
+      <link>http://shinyay.github.io/about/about/</link>
       <pubDate>Tue, 31 May 2016 10:34:54 +0000</pubDate>
       
-      <guid>http://shinyay.bitbucket.org/about/about/</guid>
+      <guid>http://shinyay.github.io/about/about/</guid>
       <description></description>
     </item>
     

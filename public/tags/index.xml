@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Just a Note</title>
-    <link>http://shinyay.bitbucket.org/tags/</link>
+    <link>http://shinyay.github.io/tags/</link>
     <description>Recent content on Just a Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Tue, 31 May 2016 10:47:06 +0000</lastBuildDate>
-    <atom:link href="http://shinyay.bitbucket.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://shinyay.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First post: Hugo operation check</title>
-      <link>http://shinyay.bitbucket.org/post/lorem-ipsum-test/</link>
+      <link>http://shinyay.github.io/post/lorem-ipsum-test/</link>
       <pubDate>Tue, 31 May 2016 10:47:06 +0000</pubDate>
       
-      <guid>http://shinyay.bitbucket.org/post/lorem-ipsum-test/</guid>
+      <guid>http://shinyay.github.io/post/lorem-ipsum-test/</guid>
       <description>
 
 &lt;h1 id=&#34;lorem-ipsum&#34;&gt;Lorem ipsum&lt;/h1&gt;
@@ -163,10 +163,10 @@ inside a list item.&lt;/p&gt;
     
     <item>
       <title>First post: Hugo operation check</title>
-      <link>http://shinyay.bitbucket.org/post/lorem-ipsum-test/</link>
+      <link>http://shinyay.github.io/post/lorem-ipsum-test/</link>
       <pubDate>Tue, 31 May 2016 10:47:06 +0000</pubDate>
       
-      <guid>http://shinyay.bitbucket.org/post/lorem-ipsum-test/</guid>
+      <guid>http://shinyay.github.io/post/lorem-ipsum-test/</guid>
       <description>
 
 &lt;h1 id=&#34;lorem-ipsum&#34;&gt;Lorem ipsum&lt;/h1&gt;
@@ -314,19 +314,19 @@ inside a list item.&lt;/p&gt;
     
     <item>
       <title>about</title>
-      <link>http://shinyay.bitbucket.org/about/about/</link>
+      <link>http://shinyay.github.io/about/about/</link>
       <pubDate>Tue, 31 May 2016 10:34:54 +0000</pubDate>
       
-      <guid>http://shinyay.bitbucket.org/about/about/</guid>
+      <guid>http://shinyay.github.io/about/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://shinyay.bitbucket.org/about/about/</link>
+      <link>http://shinyay.github.io/about/about/</link>
       <pubDate>Tue, 31 May 2016 10:34:54 +0000</pubDate>
       
-      <guid>http://shinyay.bitbucket.org/about/about/</guid>
+      <guid>http://shinyay.github.io/about/about/</guid>
       <description></description>
     </item>
     
