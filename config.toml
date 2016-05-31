@@ -1,0 +1,87 @@
+baseurl = "http://shinyay.bitbucket.org/"
+languageCode = "en-us"
+title = "Just a Note"
+theme = "blackburn"
+author = "Shinya Yanagihara"
+copyright = "&copy; 2016. All rights reserved."
+canonifyurls = true
+paginate = 5
+
+[indexes]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  # Shown in the home page
+  subtitle = "This is a just note"
+  brand = "Shinya<br>Yanagihara"
+  googleAnalytics = ""
+  disqus = "shinyay"
+  # CSS name for highlight.js
+  highlightjs = "railscasts"
+  dateFormat = "02 Jan 2006"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 1
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Categories"
+    pre = "<i class='fa fa-folder fa-fw'></i>"
+    weight = 3
+    identifier = "category"
+    url = "/categories/"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
+    weight = 4
+    identifier = "tag"
+    url = "/tags/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  
+  # SNS microblogging
+  #twitter = "*"
+  #facebook = "*"
+  #googleplus = "*"
+  #weibo = "*"
+
+  # SNS photo/video sharing
+  #instagram = "*"
+  #flickr = "*"
+  #pinterest = "*"
+  #youtube = "*"
+  #vimeo = "*"
+  #vine = "*"
+  #slideshare = "*"
+
+  # SNS career oriented
+  #linkedin = "*"
+  #xing = "*"
+
+  # SNS news
+  #reddit = "*"
+  #hackernews = "*"
+
+  # Techie
+  github = "shinyay"
+  bitbucket = "shinyay"
+  #stackoverflow = "*"
